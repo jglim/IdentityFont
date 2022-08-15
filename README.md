@@ -28,3 +28,4 @@ No, this is a title font and isn't intended to be a display font. I would not re
 
 ## There seems to be another font that's used in our public transport..?
 That would most likely be _Ocean Sans_, which is frequently used together with their Identity font.
+Newer signages will most likely use _Stroudley_.
