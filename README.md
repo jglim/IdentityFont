@@ -5,10 +5,8 @@ Reconstruction of the LTAIdentity font, a Humanistic sans-serif font that is com
 
 [Download it from the Releases](https://github.com/jglim/IdentityFont/releases)
 
-## Use it for..
-- Your public transport mapping app / visualizations
-- Making direction signages that are immediately recognizable (e.g. detoured routes to a MRT due to construction works)
-
+## How was it made?
+The font was pulled from [this document](https://www.lta.gov.sg/content/dam/ltagov/who_we_are/statistics_and_publications/books/pdf/REthink_190918web.pdf) using MuPDF.
 
 ## Is it exact?
 
@@ -19,7 +17,7 @@ No. The individual glyphs' outlines should be pretty close, along with its metri
 Please let me know if there are better approaches to this issue.
 
 ## What's in the character set?
-[a-zA-Z0-9]. There are several "unofficial" supporting glyphs for punctuation marks.
+[a-zA-Z0-9] and +-./,:;<=>!&"'?()_.
 
 ![Glyphs](https://raw.githubusercontent.com/jglim/IdentityFont/main/docs/resources/glyphs.png)
 
